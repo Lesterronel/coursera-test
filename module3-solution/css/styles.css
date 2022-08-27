@@ -1,7 +1,5 @@
 /* Header */
-.collapse.navbar-collapse {
-    background-color: #b2f7a4;
-}
+
 /* End Header */
 
 /* Main Content */
@@ -23,5 +21,8 @@ h3 {
         margin-left: auto;
         margin-right: auto;
         width: 70%;
+    }
+    .collapse.navbar-collapse {
+        background-color: #b2f7a4;
     }
 }
